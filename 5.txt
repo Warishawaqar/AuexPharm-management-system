@@ -1,0 +1,6 @@
+5
+1,Swift Distribution,Karachi South,0300-1234567,LIC-99234,4.8
+2,MedRelief Services,Lahore Central,0321-7654321,LIC-88421,4.5
+3,HealthLogistics PK,Islamabad,0333-9876543,LIC-77532,4.2
+4,Prime Pharma Traders,Peshawar,0312-4455667,LIC-66321,3.9
+5,Nexus Distributors,Quetta,0345-1122334,LIC-55110,4.7

@@ -1,0 +1,26 @@
+25
+1,Panadol,Tablet,700,GSK Pakistan,35
+2,IB Mint,Capsule,1000,Elate Pharma,30
+3,Hydrozole,Cream,2000,GSK Pakistan,57
+4,Somogel,Cream,500,Abbott Laboratories,90
+6,Voltral Emulgel 1%,Cream,875,Haleon Pakistan,8
+7,Mycitracin,Cream,759,Lucky Core Industries,20
+8,Duphalac,Syrup,900,Abbott Laboratories,40
+9,Gravinate,Tablet,20,Searle Company,50
+10,Augmentin,Tablet,890,GSK Pakistan,80
+11,Mionesten,Tablet,700,Bristol Mayer Biotech Pakistan,10
+12,Fonaz,Tablet,450,ATCO laboratories,15
+13,Voren,Tablet,900,Yung Shin Pharma,17
+14,Rigix,Tablet,150,AGP limited,13.5
+15,Soften,Tablet,290,Werrick Pharmaceuticals,14.89
+16,Ciproxin,Tablet,876,OBS Pharma,39.87
+17,Iodex,Cream,159,GSK Pakistan,23.5
+18,Calamox,Tablet,908,Bosch Pharmaceuticals,56
+19,Hydryllin,Syrup,298,Searle Company,32
+20,Nuberol,Tablet,308,Searle Company,12
+21,PediaSure,Supplement,207,Abbott Laboratories,14
+22,Vitrum,Supplement,189,Searle Company,34
+23,Ensure,Supplement,199,Abbott Laboratories,12
+24,Boferin,Supplement,500,Bosch Pharmaceuticals,16
+25,Addfer,Supplement,875,ATCO Laboratories,19
+25,sulphate,tablet,230,GSK pak,100

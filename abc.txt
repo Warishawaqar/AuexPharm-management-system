@@ -1,0 +1,6 @@
+5
+1,GSK Pakistan,Karachi,021-111-475-725,pk.info@gsk.com,Multinational
+2,Abbott Laboratories,Karachi,021-35061931,info.abbott@abbott.com,Multinational
+3,Searle Company,Karachi,021-32533030,info@searlepakistan.com,National
+4,Getz Pharma,Karachi,021-35060141,info@getzpharma.com,National
+5,Haleon Pak,Lahore,035678908,haleon@gamil.com,National
